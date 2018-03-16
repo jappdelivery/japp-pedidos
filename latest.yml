@@ -1,0 +1,9 @@
+version: 1.0.1
+files:
+  - url: JappPedidos-Setup-1.0.1.exe
+    sha512: bVywrGMRXI17mN5Rg7ddZtxhrv1KUpmmPq8ynil5SEGgU0w+cDEjCGFDiiAvNJvlbeyl0+ikToiRJMiMSCx5Dw==
+    size: 35816894
+path: JappPedidos-Setup-1.0.1.exe
+sha512: bVywrGMRXI17mN5Rg7ddZtxhrv1KUpmmPq8ynil5SEGgU0w+cDEjCGFDiiAvNJvlbeyl0+ikToiRJMiMSCx5Dw==
+sha2: 2bbe1d9002a34a41b49595e497f2926a66fe7504bc291d7ca3ec8ef80a78150c
+releaseDate: '2018-03-15T23:26:16.797Z'

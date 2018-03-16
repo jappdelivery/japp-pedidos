@@ -1,0 +1,32 @@
+directories:
+  output: dist
+  buildResources: build
+appId: br.com.jappdelivery.tracking
+productName: JappPedidos
+files:
+  - '**/*'
+  - '**.png'
+publish:
+  - provider: github
+    owner: jappdelivery
+    repo: japp-pedidos
+dmg:
+  iconSize: 120
+  iconTextSize: 14
+  contents:
+    - x: 478
+      'y': 170
+      type: link
+      path: /Applications
+    - x: 130
+      'y': 170
+      type: file
+mac:
+  category: public.app-category.business
+  icon: build/icon.png
+linux:
+  category: Development
+win:
+  icon: build/icon.png
+  target: NSIS
+electronVersion: 1.8.3

@@ -1,0 +1,10 @@
+version: 1.0.1
+files:
+  - url: JappPedidos-1.0.1-mac.zip
+    sha512: j6gtqtylH0wPPA5ceNOZHgShsYri8YdbZ38GiKo0zNos1mRPmOBEYdcwycpAnYwOYxut1tFRJfSZhPpHHsG6DA==
+  - url: JappPedidos-1.0.1.dmg
+    sha512: BmvadKhDBBd14e5IWPncl2wlc8U7QuMT1e8tYcij4sbAJ5eM7RdpbBf9Kz+/yNwGZhS+9B/LOicHXytPAUP71w==
+    size: 49482936
+path: JappPedidos-1.0.1-mac.zip
+sha512: j6gtqtylH0wPPA5ceNOZHgShsYri8YdbZ38GiKo0zNos1mRPmOBEYdcwycpAnYwOYxut1tFRJfSZhPpHHsG6DA==
+releaseDate: '2018-03-15T23:26:16.797Z'
